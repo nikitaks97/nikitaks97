@@ -49,7 +49,7 @@ I love designing clean, scalable CI/CD pipelines and working with tools like **D
 - 🎓 *IBM DevOps Fundamentals*  
 - 🎓 *IBM Docker Essentials*  
 - 🎓 *PL-300: Power BI Data Analyst*  
-- 🔜 *AWS Solutions Architect – Associate* (in progress)
+- 🔜 *AWS Solutions Architect – Associate
 
 ---
 
